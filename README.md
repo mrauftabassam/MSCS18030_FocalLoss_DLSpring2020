@@ -12,8 +12,6 @@ Code for this experiment is attached named as "covid19_classification_01.ipynb"
 
     Training Accuracy: 92%
     
-    Validation Accuracy: 94.9%
-    
     Confusion Matrix on Test Data: 
 |               |             |            | Predicted Values |          |          |
 |:-------------:|:-----------:|:----------:|:----------------:|:--------:|:--------:|
@@ -21,6 +19,9 @@ Code for this experiment is attached named as "covid19_classification_01.ipynb"
 |               |  “covid-19” |     84     |        58        |    55    |   0.59   |
 | Actual Values | “pneumonia” |      0     |       3939       |    55    |   0.95   |
 |               |   “normal”  |      1     |        307       |   1672   |   0.88   |
+
+
+    Validation Accuracy: 94.9%
 
     Confusion Matrix on Validation Data: 
 |               |             |            | Predicted Values |          |          |
@@ -54,6 +55,8 @@ Code for this experiment is attached named as "covid19_classification_02.ipynb"
 |               |  “covid-19” |      0     |        26        |     1    |   0.0    |
 | Actual Values | “pneumonia” |      0     |       393        |     6    |   0.94   |
 |               |   “normal”  |      0     |        20        |    178   |   0.92   |
+
+
 =================================================================
 
 #### Note: Furture details are reported in attached report named as "Report_A5b.pdf"
